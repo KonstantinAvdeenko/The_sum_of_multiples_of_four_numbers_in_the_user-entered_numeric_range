@@ -9,7 +9,7 @@ The use of modules and classes provides an improved understanding of the code,
 and therefore setting and subsequent modification of the source code of the program. 
 This program consists of the following modules:
 
-1) Program - the main entry point into the game application.
+1) Program - the main entry point into the application.
 2) Form1 - the main form of the program.
 
 The main module of Form1 contains the following main functions corresponding to the main 
